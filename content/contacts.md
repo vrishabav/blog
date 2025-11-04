@@ -8,19 +8,13 @@ Welcome to the **Cybersecurity Club of CFI, IIT Madras**! We're excited to conne
 
 ### 📧 Email Us
 For any questions or collaborations, drop us an email at:  
-**[cyseciitm@gmail.com](mailto:cyseciitm@gmail.com)**
+**[exploiitm_cfi@smail.iitm.ac.in](mailto:exploiitm_cfi@smail.iitm.ac.in)**
 
 ---
 
 ### 👥 GitHub
 Explore our projects over at GitHub:  
 **[Cybersecurity Club GitHub](https://github.com/exploiitm)**
-
----
-
-### 📲 WhatsApp Channel
-Stay updated with our latest activities and announcements:  
-**[Join our WhatsApp Channel](https://whatsapp.com/channel/0029VagYPmcJf05WWAIFbQ2c)**
 
 ---
 
